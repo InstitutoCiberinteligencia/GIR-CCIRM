@@ -59,7 +59,7 @@ El bloque **PIR/EEI → CMF → ICP/IAP** es lo que la doctrina denomina **CCIRM
 ### Opción A — Descargar y abrir (recomendada para alumnos)
 
 1. Abre el archivo y haz clic en **Download raw file**, o descarga directamente desde:
-   `https://github.com/InstitutoCiberinteligencia/GIR-CCIRM/raw/refs/heads/main/Taller_GIR_CCIRM_Lab.html`
+   `https://github.com/InstitutoCiberinteligencia/GIR-CCIRM/raw/refs/heads/main/GIR_CCIRM_Lab.html`
 2. Haz doble clic en el archivo descargado: se abre en tu navegador.
 3. ¡Listo! No requiere internet ni instalación.
 
@@ -68,7 +68,7 @@ El bloque **PIR/EEI → CMF → ICP/IAP** es lo que la doctrina denomina **CCIRM
 Activa **GitHub Pages** en el repositorio (*Settings → Pages → Build and deployment → Source: Deploy from a branch → Branch: `main` / `/ (root)`*). En un par de minutos el taller queda disponible en:
 
 ```
-https://institutociberinteligencia.github.io/GIR-CCIRM/Taller_GIR_CCIRM_Lab.html
+https://institutociberinteligencia.github.io/GIR-CCIRM/GIR_CCIRM_Lab.html
 ```
 
 Así los alumnos solo abren el enlace, sin descargar nada. Es la opción más cómoda para repartir en clase.
@@ -110,7 +110,7 @@ El taller incluye una guía paso a paso en la fase de cierre. Los dos ajustes qu
 
 ```
 .
-├── Taller_GIR_CCIRM_Lab.html          # El laboratorio (todo en un archivo)
+├── GIR_CCIRM_Lab.html                 # El laboratorio (todo en un archivo)
 ├── assets/
 │   └── Oneiros-light-horizontal.png   # Logo para este README
 ├── LICENSE                            # CC BY-NC 4.0
