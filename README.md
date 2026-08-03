@@ -65,15 +65,13 @@ El bloque **PIR/EEI → CMF → ICP/IAP** es lo que la doctrina denomina **CCIRM
 
 ### Opción B — Abrir directo en el navegador (GitHub Pages)
 
-Activa **GitHub Pages** en el repositorio (*Settings → Pages → Build and deployment → Source: Deploy from a branch → Branch: `main` / `/ (root)`*). En un par de minutos el taller queda disponible en:
+Disponible on-line en:
 
 ```
 https://institutociberinteligencia.github.io/GIR-CCIRM/GIR_CCIRM_Lab.html
 ```
 
-Así los alumnos solo abren el enlace, sin descargar nada. Es la opción más cómoda para repartir en clase.
-
-## Flujo del taller (10 fases · 115 min)
+## Flujo del taller (10 fases · ~115 min)
 
 | # | Fase | Tiempo | Etapa | Resultado |
 |---|------|:------:|-------|-----------|
