@@ -1,0 +1,81 @@
+GIR + CCIRM Lab — Oneiros Academy
+Copyright (c) 2026 Instituto Ciberinteligencia / Oneiros Academy
+
+Esta obra está licenciada bajo la licencia
+Creative Commons Atribución-NoComercial 4.0 Internacional (CC BY-NC 4.0).
+
+================================================================
+RESUMEN (no sustituye al texto legal)
+================================================================
+
+Usted es libre de:
+
+  • Compartir — copiar y redistribuir el material en cualquier medio o formato.
+  • Adaptar — remezclar, transformar y construir a partir del material.
+
+Bajo los siguientes términos:
+
+  • Atribución (BY) — Debe dar crédito de manera adecuada, indicando a
+    Oneiros Academy / Instituto Ciberinteligencia como autores, brindar un
+    enlace a la licencia e indicar si se han realizado cambios. Puede hacerlo
+    de cualquier manera razonable, pero no de forma que sugiera que el
+    licenciante lo respalda a usted o a su uso.
+
+  • NoComercial (NC) — No puede utilizar el material con fines comerciales.
+
+  • Sin restricciones adicionales — No puede aplicar términos legales ni
+    medidas tecnológicas que restrinjan legalmente a otros hacer cualquier
+    uso permitido por la licencia.
+
+================================================================
+TEXTO LEGAL COMPLETO
+================================================================
+
+El texto legal completo y vinculante de esta licencia se encuentra en:
+
+  https://creativecommons.org/licenses/by-nc/4.0/legalcode.es
+
+Resumen legible para personas:
+
+  https://creativecommons.org/licenses/by-nc/4.0/deed.es
+
+================================================================
+MATERIAL DE TERCEROS
+================================================================
+
+Este laboratorio incorpora, con fines exclusivamente educativos, los códigos y
+títulos de la taxonomía CU-GIRH (Cyber Underground General Intelligence
+Requirements Handbook), versión 7.0, publicada por:
+
+  Intel 471, Inc.
+  https://www.intel471.com/cyber-underground-handbook
+
+Dicha taxonomía se distribuye bajo licencia Creative Commons
+Atribución-NoComercial-SinDerivadas 4.0 Internacional (CC BY-NC-ND 4.0):
+
+  https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es
+
+ALCANCE DE LO INCORPORADO
+
+El taller incluye únicamente los códigos y títulos de la taxonomía, con
+finalidad de navegación y autocompletado dentro del ejercicio. NO reproduce
+las definiciones ni los Elementos Esenciales de Información (EEIs) del
+handbook, que son contenido autoral de Intel 471 y deben consultarse en el
+documento oficial.
+
+Los derechos sobre la taxonomía pertenecen a Intel 471, Inc. y NO se
+encuentran cubiertos por la licencia CC BY-NC 4.0 aplicable al resto de esta
+obra. Un índice navegable de los códigos, con la misma atribución, está
+disponible en:
+
+  https://github.com/InstitutoCiberinteligencia/CU-GIRH-Reference
+
+NO AFILIACIÓN
+
+Este repositorio no está afiliado a Intel 471, Inc., ni patrocinado ni
+respaldado por dicha empresa. Las marcas y nombres comerciales mencionados
+pertenecen a sus respectivos titulares.
+
+Si Intel 471, Inc. considera que algún contenido de este repositorio excede lo
+permitido por la licencia CC BY-NC-ND 4.0, se retirará o modificará a
+solicitud. Contacto: a través de los issues del repositorio.
